@@ -1,11 +1,16 @@
 _repo: Modern-Billiards-A-Complete-Text-Book-of-the-Game-Containing-Plain-and-Practical-Instructions__59143
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59143-h/images/cover.jpg
 creator:
   author:
     agent_name: Garno, Benjamin
     gutenberg_agent_id: '50318'
     url: http://www.gutenberg.org/2009/agents/50318
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59143#Modern-Billiards-A-Complete-Text-Book-of-the-Game-Containing-Plain-and-Practical-Instructions_
 gutenberg_issued: '2019-03-28'
 gutenberg_type: Text
 identifiers:
